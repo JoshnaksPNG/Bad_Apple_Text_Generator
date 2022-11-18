@@ -1,0 +1,17 @@
+{
+  "name": "bad_apple_text_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ffmpeg": "^0.0.4",
+    "jimp": "^0.16.2",
+    "lodash": "^4.17.21",
+    "math.js": "^1.1.46"
+  }
+}
